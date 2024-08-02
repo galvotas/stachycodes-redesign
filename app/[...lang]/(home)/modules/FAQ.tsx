@@ -16,8 +16,8 @@ export const FAQ = ({ questions, description, caption }: FAQ) => {
   return (
     <section className="bg-lightGray py-8 md:py-16">
       <div className="container mx-auto max-w-xl px-4 md:px-0">
-        <h2 className="text-center mb-6">FAQ</h2>
-        <p className="text-center text-lg mb-12">{description}</p>
+        <h2 className="text-center mb-4">FAQ</h2>
+        <p className="text-center text-lg mb-4 md:mb-12">{description}</p>
 
         <Accordion items={questions} caption={caption} />
       </div>

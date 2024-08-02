@@ -17,7 +17,7 @@ export const HowItWorks = ({ title, steps }: HowItWorksProps) => {
     <section className="bg-dark text-white pb-16">
       <div className="container mx-auto px-4 md:px-0 max-w-7xl">
         <h2
-          className="mb-12 text-center"
+          className="mb-4 md:mb-12 text-center"
           dangerouslySetInnerHTML={{ __html: purify(title) }}
         />
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">

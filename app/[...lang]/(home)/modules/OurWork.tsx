@@ -34,14 +34,14 @@ export const OurWork = ({ title, projects }: OurWork) => {
     <section className="bg-dark py-8 md:py-16 text-white">
       <div className="container mx-auto">
         <h2
-          className="text-center mb-6"
+          className="text-center mb-4 md:mb-12"
           dangerouslySetInnerHTML={{ __html: purify(title) }}
         />
         {/* <p className="text-center max-w-3xl mx-auto mb-4 md:mb-16">
           {description}
         </p> */}
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-14">
+        <div className="grid grid-cols-1 md:grid-cols-2">
           {projects.map((project, index) => (
             <div key={index} className="p-6 rounded-lg shadow-md">
               <div>

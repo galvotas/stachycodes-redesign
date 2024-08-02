@@ -33,12 +33,12 @@ export const WhatWeDo = (dict: WhatWeDo) => {
     <section className="bg-lightGray py-8 md:py-16">
       <div className="container mx-auto px-4 md:px-0 max-w-6xl">
         <h2
-          className="text-center mb-6"
+          className="text-center mb-4"
           dangerouslySetInnerHTML={{
             __html: purify(dict.section_title),
           }}
         />
-        <p className="text-center max-w-3xl mx-auto mb-8 md:mb-16">
+        <p className="text-center max-w-3xl mx-auto mb-4 md:mb-12">
           {dict.description}
         </p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4  md:gap-8">
