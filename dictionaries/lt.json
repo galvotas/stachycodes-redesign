@@ -1,0 +1,163 @@
+{
+  "common": {
+    "cta": "Susisiekti"
+  },
+  "home": {
+    "hero": {
+      "caption": "75+ laimingi klientai",
+      "title": "<span class=\"text-green\">Modernių</span> svetainių kūrimas",
+      "subtitle": "Mūsų patyrusios komandos tikslas yra kurti unikalias, greitas, patogias, lanksčias, matomas bei konvertuojančias svetaines.",
+      "secondary_subtitle": "Atvirumas, atidumas ir sąžiningumas - tai mūsų vertybės, kurios yra mūsų darbo pagrindas.."
+    },
+    "what_we_do": {
+      "section_title": "Kokybė yra <span class=\"text-green\">Svarbu</span>",
+      "description": "Mes specializuojamės mažų verslų svetainių dizainu ir kūrimu klientams iš bet kurios pasaulio vietos.",
+      "features": [
+        {
+          "title": "Unikalus dizainas",
+          "description": "Mūsų profesionalus UX/UI dizaineris sukurs unikalų dizainą, pritaikytą būtent <b>jūsų</b> prekės ženklui.<br/><br/>Kiekvienas elemento išdėstymas, spalvos, šrifto dydžiai ir stiliai kruopščiai parenkami, kad svetainė būtų ne tik graži, bet ir <b>patogi naudoti</b>."
+        },
+        {
+          "title": "Našumas",
+          "description": "Svetainės našumas yra vienas iš pagrindinių SEO rodiklių. Taip yra todėl, kad greita svetainė užtikrina geresnę vartotojo patirtį.<br/><br/>Mes rašome kodą vietoj šablonų ar svetainių kūrimo įrankių naudojimo. Tai leidžia mums sukurti <b>greitą</b>, saugią ir lanksčią svetainę."
+        },
+        {
+          "title": "Lankstumas",
+          "description": "Jei naudojote svetainę su šablonu arba svetainės kūrimo įrankį, tikriausiai susidūrėte su reiškiniu „neįmanoma padaryti to, ko noriu“.<br/><br/>Mes koduojame nuo nulio, todėl galime pasiūlyti lankstesnį sprendimą, kuris atitiktų jūsų poreikius."
+        },
+        {
+          "title": "SEO optimizavimas",
+          "description": "Svetainės SEO optimizavimas yra vienas iš svarbiausių dalykų, jei norite, kad jūsų svetainė būtų randama „Google“ paieškoje.<br/><br/>Mes užtikriname, kad jūsų svetainė būtų <b>optimizuota SEO</b> ir atitiktų pagrindinius SEO reikalavimus."
+        },
+        {
+          "title": "Responsyvus dizainas",
+          "description": "Šiuolaikiniame pasaulyje svarbu, kad jūsų svetainė atrodytų gerai visuose įrenginiuose – tiek staliniuose kompiuteriuose, tiek planšetiniuose kompiuteriuose, tiek išmaniuosiuose telefonuose.<br/><br/>Mes kuriame svetaines, kurios yra <b>responsyvios</b> ir prisitaiko prie bet kokio ekrano dydžio."
+        },
+        {
+          "title": "Konversija",
+          "description": "Pagrindinis bet kurios svetainės tikslas yra paversti lankytojus klientais.<br/><br/>Mes kuriame svetaines, kurios ne tik gražios, bet ir <b>paverčia lankytojus klientais</b>."
+        }
+      ]
+    },
+    "our_work": {
+      "title": "Mūsų <span class=\"text-green\">Darbai</span>",
+      "description": "Padedame tiek atnaujinti esamas svetaines, tiek kurti naujas nuo nulio.",
+      "projects": [
+        {
+          "title": "Infes komanda nusprendė atsinaujinti",
+          "link": "https://infes.lt",
+          "stats": [
+            { "value": "+218%", "description": "Kvalifikuotų užklausų" },
+            { "value": "+22%", "description": "Laiko praleisto svetainėje" },
+            { "value": "+81%", "description": "Aplankytų puslapių per sesiją" }
+          ],
+          "review": {
+            "name": "John",
+            "position": "Generalinis direktorius, Infes",
+            "text": "Stachy Codes komanda yra neįtikėtina. Jie yra profesionalūs ir su jais labai lengva dirbti. Jie paėmė mūsų idėjas ir jas įgyvendino. Labai rekomenduoju juos."
+          }
+        },
+        {
+          "title": "Aronvera unikalumas",
+          "link": "https://aronvera.lt",
+          "stats": [
+            { "value": "+128%", "description": "Kvalifikuotų užklausų" },
+            { "value": "+44%", "description": "Laiko praleisto svetainėje" },
+            { "value": "+68%", "description": "Aplankytų puslapių per sesiją" }
+          ],
+          "review": {
+            "name": "Shawn",
+            "position": "Generalinis direktorius, Aronvera",
+            "text": "Mes nuolat nerasdavome laiko mūsų svetainei. Priežastis buvo ta, kad buvome labai užsiėmę ir manėme, kad tai atims mūsų laiką. Bet esame dėkingi Stachy Codes, nes iš mūsų pusės reikėjo minimalių pastangų. Rekomenduojame."
+          }
+        }
+      ]
+    },
+    "faq": {
+      "description": "Štai keletas dažnai užduodamų klausimų ir atsakymų apie mūsų paslaugas.",
+      "caption": "Jeigu turite klausimų, <a class=\"text-green\" href=\"#contact\">susisiekite</a>.",
+      "questions": [
+        {
+          "question": "Kiek kainuos svetainė?",
+          "answer": "Kaina priklauso nuo sudėtingumo ir reikalingų funkcijų. Pateikdime išsamią kainą po pokalbio apie jūsų konkrečius poreikius."
+        },
+        {
+          "question": "Kiek laiko užtruks sukurti svetainę?",
+          "answer": "Paprastai pagrindinė svetainė užtrunka 2-3 savaites. Sudėtingesni projektai gali užtrukti ilgiau. Pateikdime laiko grafiką po jūsų projekto apimties nustatymo."
+        },
+        {
+          "question": "Ar svetainė bus pritaikyta mobiliesiems įrenginiams?",
+          "answer": "Taip, visos mūsų svetainės yra pritaikytos ir sukurtos taip, kad gerai veiktų mobiliuosiuose įrenginiuose, planšetiniuose kompiuteriuose ir staliniuose kompiuteriuose."
+        },
+        {
+          "question": "Ar galėsiu pats atnaujinti svetainės turinį?",
+          "answer": "Taip, mes įdiegsime patogią turinio valdymo sistemą (TVS), kuri leis jums lengvai atnaujinti tekstą ir paveikslėlius."
+        },
+        {
+          "question": "Ar teikiate prieglobos paslaugas?",
+          "answer": "Mes siūlome prieglobos variantus, bet jūs taip pat galite naudoti savo prieglobos teikėją, jei pageidaujate."
+        },
+        {
+          "question": "Ar mano svetainė bus optimizuota paieškos sistemoms (SEO)?",
+          "answer": "Mes įgyvendiname pagrindines SEO geriausias praktikas puslapiuose. Išsamesnėms SEO paslaugoms siūlome papildomus paketus."
+        },
+        {
+          "question": "Ar galite integruoti socialinę mediją į mano svetainę?",
+          "answer": "Taip, galime integruoti socialinės medijos srautus ir dalijimosi mygtukus, kad pagerintume jūsų svetainės jungiamumą."
+        },
+        {
+          "question": "Kas įeina į svetainės priežiūros paketą?",
+          "answer": "Mūsų priežiūros paketas paprastai apima reguliarius atnaujinimus, saugumo patikrinimus, atsargines kopijas ir nedidelius turinio pakeitimus."
+        },
+        {
+          "question": "Kokia bus mano svetainės sauga?",
+          "answer": "Mes įgyvendiname standartines saugumo priemones, įskaitant SSL sertifikatus ir reguliarius saugumo atnaujinimus, kad apsaugotume jūsų svetainę."
+        },
+        {
+          "question": "Ar siūlote elektroninės prekybos funkcionalumą?",
+          "answer": "Taip, galime integruoti elektroninės prekybos sprendimus, leidžiančius jums parduoti produktus ar paslaugas tiesiogiai per jūsų svetainę."
+        }
+      ]
+    },
+    "how_it_works": {
+      "title": "Darbų <span class=\"text-green\">Procesas</span>",
+      "steps": [
+        {
+          "step": "01 ŽINGSNIS",
+          "title": "Konsultacija",
+          "description": "Kai pateiksite savo projekto užklausą, vienas iš mūsų žiniatinklio dizaino ekspertų susisieks su jumis, kad suplanuotų vaizdo skambutį. Šios individualios konsultacijos metu mes susitelksime į jūsų vizijos, tikslų ir reikalavimų supratimą."
+        },
+        {
+          "step": "02 ŽINGSNIS",
+          "title": "Planavimas ir strategija",
+          "description": "Mūsų komanda atliks išsamią jūsų reikalavimų analizę ir sukurs detalų planą bei strategiją. Tai apims maketus, projekto terminus ir visapusišką požiūrį į jūsų pageidaujamų rezultatų pasiekimą."
+        },
+        {
+          "step": "03 ŽINGSNIS",
+          "title": "Dizainas ir kūrimas",
+          "description": "Po planavimo etapo mūsų dizaineriai ir kūrėjai pradės dirbti prie jūsų projekto. Mes sukursime vizualiai patrauklius dizainus ir išvystysime visiškai funkcionalią svetainę, pritaikytą jūsų specifikacijoms."
+        },
+        {
+          "step": "04 ŽINGSNIS",
+          "title": "Paleidimas ir palaikymas",
+          "description": "Po kruopštaus testavimo ir jūsų galutinio patvirtinimo, mes paleisime jūsų svetainę. Taip pat teikiame nuolatinę pagalbą ir priežiūrą, kad užtikrintume, jog jūsų svetainė išliktų atnaujinta, saugi ir sklandžiai veikianti."
+        }
+      ]
+    },
+    "contact_us": {
+      "contact_details": {
+        "title": "<span class=\"text-green\">Pasikalbėkite</span> su mūsų <span class=\"text-green\">programavimo</span> ekspertu",
+        "description": "<b className=\"text-xl\">Antanas kartu su savo komanda</b> padėjo dešimtims įmonių sukurti unikalią, greitą, patogią naudoti ir konvertuojančią svetainę.<br/><br/>Esame atviri, dėmesingi ir visuomet pasirengę padėti. Jei turite klausimų, mes esame tik skambučio ar susitikimo atstumu.",
+        "happyClientLabel": "75+ laimingi klientai"
+      },
+      "contact_form": {
+        "nameLabel": "Vardas",
+        "companyLabel": "Įmonė",
+        "emailLabel": "El. paštas",
+        "messageLabel": "Žinutė",
+        "errorMessage": "Įvyko klaida.",
+        "successMessage": "Žinutė sėkmingai išsiųsta."
+      }
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "common": {
+    "cta": "Contact us"
+  },
+  "home": {
+    "hero": {
+      "caption": "75+ happy clients",
+      "title": "We build <span class=\"text-green\">Professional</span> websites",
+      "subtitle": "Our experienced team's goal is to create unique, fast, user-friendly, flexible, visible, and converting websites.",
+      "secondary_subtitle": "Openness, attentiveness, and honesty - these are our values, which form the foundation of our work."
+    },
+    "what_we_do": {
+      "section_title": "What We Do",
+      "description": "We specialize in small business web design and development for clients anywhere in the world.",
+      "features": [
+        {
+          "title": "Unique Design",
+          "description": "Our professional UX/UI designer will create a unique design tailored specifically for <b>your</b> brand.<br/><br/>Every element's positioning, colors, font sizes, and styles are carefully selected to ensure the website is not only beautiful but also <b>user-friendly</b>."
+        },
+        {
+          "title": "Performance",
+          "description": "Website performance is one of the key SEO indicators. This is because a fast website ensures a better user experience.<br/><br/>We write code instead of using templates or website builders. This allows us to create a <b>fast</b>, secure, and flexible website."
+        },
+        {
+          "title": "Flexibility",
+          "description": "If you have used a template-based website or a website builder, you probably encountered the phenomenon of \"it's impossible to do what I want.\"<br/><br/>We code from scratch, so we can offer a more <b>flexible</b> solution that meets your needs."
+        },
+        {
+          "title": "SEO Optimization",
+          "description": "Website SEO optimization is one of the most important things to do if you want your website to be found in Google search.<br/><br/>We ensure that your website is <b>SEO optimized</b> and meets the main SEO requirements."
+        },
+        {
+          "title": "Responsive Design",
+          "description": "In the modern world, it is important that your website looks good on all devices, whether it is a desktop, tablet, or smartphone.<br/><br/>We create websites that are <b>responsive</b> and adapt to any screen size."
+        },
+        {
+          "title": "Conversion",
+          "description": "The main goal of any website is to convert visitors into customers.<br/><br/>We create websites that are not only beautiful but also <b>convert visitors into customers</b>."
+        }
+      ]
+    },
+    "our_work": {
+      "title": "Our <span class=\"text-green\">Work</span>",
+      "projects": [
+        {
+          "title": "The Infes team decided to renew",
+          "link": "https://infes.lt",
+          "stats": [
+            { "value": "+218%", "description": "Qualified inquiries" },
+            { "value": "+22%", "description": "Time spent on the website" },
+            { "value": "+81%", "description": "Pages visited per session" }
+          ],
+          "review": {
+            "name": "John",
+            "position": "CEO, Infes",
+            "text": "The team at Stachy Codes is incredible. They are professional and very easy to work with. They took our ideas and brought them to life. I highly recommend them."
+          }
+        },
+        {
+          "title": "The uniqueness of Aronvera",
+          "link": "https://aronvera.lt",
+          "stats": [
+            { "value": "+128%", "description": "Qualified inquiries" },
+            { "value": "+44%", "description": "Time spent on the website" },
+            { "value": "+68%", "description": "Pages visited per session" }
+          ],
+          "review": {
+            "name": "Shawn",
+            "position": "CEO, Aronvera",
+            "text": "We constantly did not find time for our website. Reason was coz we were so busy and we thought it will steal our time. But we are grateful to Stachy Codes as it required minimal effort from our side. Recommend."
+          }
+        }
+      ]
+    },
+    "faq": {
+      "description": "Here are some common questions and answers about our services.",
+      "caption": "If you have any other questions, feel free to <a class=\"text-green\" href=\"#contact\">contact us</a>.",
+      "questions": [
+        {
+          "question": "How much will the website cost?",
+          "answer": "The cost varies depending on the complexity and features required. We'll provide a detailed quote after discussing your specific needs."
+        },
+        {
+          "question": "How long will it take to build the website?",
+          "answer": "Typically, a basic website takes 2-3 weeks. More complex projects may take longer. We'll provide a timeline after scoping your project."
+        },
+        {
+          "question": "Will the website be mobile-friendly?",
+          "answer": "Yes, all our websites are responsive and designed to work well on mobile devices, tablets, and desktops."
+        },
+        {
+          "question": "Can I update the website content myself?",
+          "answer": "Yes, we'll set up a user-friendly content management system (CMS) that allows you to easily update text and images."
+        },
+        {
+          "question": "Do you provide hosting services?",
+          "answer": "We offer hosting options, but you're also free to use your own hosting provider if preferred."
+        },
+        {
+          "question": "Will my website be search engine optimized (SEO)?",
+          "answer": "We implement basic on-page SEO best practices. For more comprehensive SEO services, we offer additional packages."
+        },
+        {
+          "question": "Can you integrate social media into my website?",
+          "answer": "Yes, we can integrate social media feeds and sharing buttons to enhance your site's connectivity."
+        },
+        {
+          "question": "What's included in the website maintenance package?",
+          "answer": "Our maintenance package typically includes regular updates, security checks, backups, and minor content changes."
+        },
+        {
+          "question": "How secure will my website be?",
+          "answer": "We implement standard security measures including SSL certificates and regular security updates to protect your site."
+        },
+        {
+          "question": "Do you offer e-commerce functionality?",
+          "answer": "Yes, we can integrate e-commerce solutions to allow you to sell products or services directly through your website."
+        }
+      ]
+    },
+    "how_it_works": {
+      "title": "Our <span class=\"text-green\">Process</span>",
+      "steps": [
+        {
+          "step": "01 STEP",
+          "title": "Consultation",
+          "description": "Once you've submitted your project request, one of our web design experts will contact you to schedule a video call. During this 1:1 consultation, we will focus on understanding your vision, goals, and requirements."
+        },
+        {
+          "step": "02 STEP",
+          "title": "Planning & Strategy",
+          "description": "Our team will conduct a thorough analysis of your requirements and create a detailed plan and strategy. This will include wireframes, project timelines, and a comprehensive approach to achieve your desired outcomes."
+        },
+        {
+          "step": "03 STEP",
+          "title": "Design & Development",
+          "description": "Following the planning phase, our designers and developers will start working on your project. We will create visually appealing designs and develop a fully functional website tailored to your specifications."
+        },
+        {
+          "step": "04 STEP",
+          "title": "Launch & Support",
+          "description": "After rigorous testing and your final approval, we will launch your website. We also provide ongoing support and maintenance to ensure your website remains up-to-date, secure, and running smoothly."
+        }
+      ]
+    },
+    "contact_us": {
+      "contact_details": {
+        "title": "<span class=\"text-green\">Talk</span> to our <span class=\"text-green\">programming</span> expert",
+        "description": "<b className=\"text-xl\">Antanas, together with his team,</b> has helped dozens of companies create unique, fast, user-friendly, and converting websites.<br/><br/>We are open, attentive, and always willing to help. If you have any questions, we are just a call or a meeting away.",
+        "happyClientLabel": "75+ happy clients"
+      },
+      "contact_form": {
+        "nameLabel": "Name",
+        "companyLabel": "Company",
+        "emailLabel": "Email",
+        "messageLabel": "Message",
+        "errorMessage": "An error occurred.",
+        "successMessage": "Message sent successfully."
+      }
+    }
+  }
+}
