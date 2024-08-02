@@ -10,14 +10,16 @@ import { Locale } from "@/i18n-config";
 import { getDictionary } from "@/get-dictionary";
 
 interface HomeProps {
-  params: { lang: Locale };
+  params: { lang: Locale[] };
 }
 
 export default async function Home({ params: { lang } }: HomeProps) {
-  const dictionary = await getDictionary(lang);
+  const dictionary = await getDictionary(lang[0]);
 
   const { hero, what_we_do, our_work, faq, contact_us, how_it_works } =
     dictionary.home;
+
+  console.log("cakt");
 
   return (
     <>

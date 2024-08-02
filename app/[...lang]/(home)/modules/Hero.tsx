@@ -15,7 +15,7 @@ interface HeroDict {
   cta: string;
 }
 
-export const Hero = ({ lang, dict }: { lang: Locale; dict: HeroDict }) => {
+export const Hero = ({ lang, dict }: { lang: Locale[]; dict: HeroDict }) => {
   return (
     <section className="bg-dark text-white pb-8 md:pb-16">
       <div className="container mx-auto px-4 md:px-0">

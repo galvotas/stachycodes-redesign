@@ -6,7 +6,7 @@ import { Locale } from "@/i18n-config";
 import Link from "next/link";
 
 interface NavigationProps {
-  lang: Locale;
+  lang: Locale[];
   ctaLabel: string;
 }
 
