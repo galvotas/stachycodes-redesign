@@ -4,7 +4,7 @@ import LogoImg from "@/public/logo.png";
 
 export const Logo = () => {
   return (
-    <div className="flex items-center color-white gap-2">
+    <div className="flex md:flex-col items-center color-white gap-2">
       <Image
         src={LogoImg}
         alt="logo"
