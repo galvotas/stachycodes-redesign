@@ -32,11 +32,14 @@ export const Hero = ({ lang, dict }: { lang: Locale[]; dict: HeroDict }) => {
               }}
             />
             <div className="max-w-xl mb-4">
-              <p className="text-lg font-semibold">{dict.subtitle}</p>
-              <br />
-              <p className="text-lg font-semibold">{dict.secondary_subtitle}</p>
+              <p
+                className="text-xl font-semibold"
+                dangerouslySetInnerHTML={{ __html: purify(dict.subtitle) }}
+              />
+              {/* <br />
+              <p className="text-lg font-semibold">{dict.secondary_subtitle}</p> */}
             </div>
-            <Button label={dict.cta} />
+            <Button className="hidden md:inline-block" label={dict.cta} />
           </div>
           <div className="relative">
             <Image
@@ -51,6 +54,7 @@ export const Hero = ({ lang, dict }: { lang: Locale[]; dict: HeroDict }) => {
                 height: "auto",
               }}
             />
+            <Button className="inline-block md:hidden mt-8" label={dict.cta} />
           </div>
         </div>
       </div>
