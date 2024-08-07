@@ -3,13 +3,13 @@
 @tailwind utilities;
 
 h1 {
-  @apply text-6xl;
+  @apply text-5xl;
 
   @apply md:text-7xl;
 }
 
 h2 {
-  @apply text-5xl;
+  @apply text-4xl;
 
   @apply md:text-6xl;
 }
