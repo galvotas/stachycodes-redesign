@@ -1,26 +1,27 @@
 "use client";
 
-import { useRouter } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 
 interface LanguageSelectorProps {
-  lang: string[];
+  lang: string;
 }
 
 const LanguageSelector: React.FC<LanguageSelectorProps> = ({ lang }) => {
   const router = useRouter();
+  const pathname = usePathname();
 
   const handleLanguageChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     const newLang = e.target.value;
 
-    if (lang[0] === newLang) return;
+    const newPath = pathname.replace(`/${lang}`, `/${newLang}`);
 
-    router.push(`/${newLang}`);
+    router.push(newPath);
   };
 
   return (
     <div className="relative inline-block">
       <select
-        value={lang[0]}
+        value={lang}
         onChange={handleLanguageChange}
         className="appearance-none bg-transparent p-4 rounded border border-green focus:outline-none"
       >

@@ -1,7 +1,7 @@
 import { Nunito_Sans } from "next/font/google";
 import "./globals.css";
 
-const inter = Nunito_Sans({ subsets: ["latin"] });
+const inter = Nunito_Sans({ subsets: ["latin"], display: "swap" });
 
 export const metadata = {
   title: "Stachy Codes",
